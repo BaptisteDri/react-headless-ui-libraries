@@ -45,9 +45,6 @@ PRs are welcomed !
 | ------  | --------- |
 | Adobe | 35 |
 
-## Articles
-- [Top headless components libraries for react in 2024](https://www.hexa-web.fr/blog/top-headless-component-libraries-for-react-in-2024)
-- [How to choose a ui components library with react and nextjs ?](https://www.hexa-web.fr/blog/how-to-choose-a-ui-components-library-with-react-and-nextjs)
 
 
 - [Reach UI](https://reach.tech/)
@@ -55,3 +52,8 @@ PRs are welcomed !
 | Author | Components |
 | ------  | --------- |
 | Remix Team | 15 |
+
+
+## Articles
+- [Top headless components libraries for react in 2024](https://www.hexa-web.fr/blog/top-headless-component-libraries-for-react-in-2024)
+- [How to choose a ui components library with react and nextjs ?](https://www.hexa-web.fr/blog/how-to-choose-a-ui-components-library-with-react-and-nextjs)
