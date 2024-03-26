@@ -1,5 +1,5 @@
 # Headless UI components for React
-A list of Headless UI components made for React.
+A list of Headless UI components libraries made for React.
 PRs are welcomed !
 
 ## Libraries
@@ -44,7 +44,6 @@ PRs are welcomed !
 | Author | Components |
 | ------  | --------- |
 | Adobe | 35 |
-
 
 
 - [Reach UI](https://reach.tech/)
