@@ -53,6 +53,22 @@ PRs are welcomed !
 | Remix Team | 15 |
 
 
+- [Sonner](https://github.com/emilkowalski/sonner)
+*toast component*
+
+| Author | Components |
+| ------  | --------- |
+| Emil Kowalski | 1 |
+
+
+- [Vaul](https://github.com/emilkowalski/vaul)
+*drawer component*
+    
+| Author | Components |
+| ------  | --------- |
+| Emil Kowalski | 1 |
+
+
 ## Articles
 - [Top headless components libraries for react in 2024](https://www.hexa-web.fr/blog/top-headless-component-libraries-for-react-in-2024)
 - [How to choose a ui components library with react and nextjs ?](https://www.hexa-web.fr/blog/how-to-choose-a-ui-components-library-with-react-and-nextjs)
